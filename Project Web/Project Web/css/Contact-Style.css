@@ -1,0 +1,631 @@
+.part1
+{
+    background-image: url(../Images/banner-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-width: 100%; 
+    padding-top: 4%;
+    height: 180px;
+}
+
+.navbar
+{
+    width: 80%;
+    margin-left: 12%;
+    border: none;
+    background-color: #34385a;
+    color: #8085a1;
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+
+.navbar-default
+{
+    padding-top: 1.2%;
+    
+}
+
+.navbar-default .navbar-nav li a:hover
+{
+    color: #ed5354; 
+    transition: 0.5s;
+}
+
+.navbar-brand
+{
+    position: absolute;
+    top: -13%;   
+}
+
+.navbar-default .navbar-nav #active a
+{
+    color: #ed5354;
+    background-color: #34385a;
+}
+
+.prag
+{
+    background-color: white;
+    color: black;
+    font-size: 18px;
+    margin-top: 3%;
+    padding-bottom: 1.5%;
+    padding-left: 5%;
+    font-weight: 600;
+    border-bottom: 2px solid #e4e7e8;
+    box-shadow: 2px 2px #f4f4f4;
+}
+
+.prag a
+{
+    color: #ed5353;
+    cursor: pointer;
+}
+
+.prag a:hover
+{
+    opacity: 0.8;
+}
+
+.part2
+{
+    background-color: white;
+    height: 700px;
+    margin-top: 3%;
+    margin-left: 4%;
+}
+
+.part2 h1
+{
+    font-weight: 100;
+    color: #2b3252;
+    margin-top: 10px;
+    margin-bottom: 3%;
+    font-size: 54px;
+    line-height: 1.4em;
+}
+
+.part2 .form-group
+{
+   display: -webkit-box;    
+}
+
+.part2 .form-control
+{
+    border: 1px solid #ccc;
+}
+
+.part2 input
+{
+    width: 70%;
+    margin-left: 5%;
+    border-radius: 0%;
+    box-shadow: none !important;
+    padding: 3%;
+    font-weight: 500;
+    font-size: 18px;
+    color: black;
+}
+
+.part2 label
+{
+    margin-bottom: 4px;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.part2 span
+{
+    color: #ed5353;
+    font-weight: 800;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.part2 textarea
+{
+    height: 200px;
+    width: 70%;
+    margin-left: 5%;
+    border: 1px solid #ed5353 !important;
+    box-shadow: none !important;
+    font-weight: 500;
+    font-size: 18px;
+    color: black;
+}
+
+.part2 button
+{
+    margin-left: 3%;
+    width: 13%;
+    font-weight: 500;
+    font-size: 18px;
+    padding: 2%;
+}
+
+.part2 #Char
+{
+    color: #ed5353;
+    font-size: 17px;
+    font-weight: 700;
+    margin-left: 38%;
+    cursor: default;
+}
+
+.part2 label:hover .tooltiptext 
+{
+    visibility: visible;
+}
+
+.part2 label .tooltiptext 
+{
+    visibility: hidden;
+    width: 130px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    font-size: 13px;
+    font-weight: 100;
+    padding: 2px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 100%;
+    left: 30%;
+    margin-left: -50px;
+}
+
+.part2 label .sub
+{
+    width: 80px;
+}
+
+.part2 .cont
+{
+    background-image:url("../Images/sidebar-bg.png");
+    padding: 5%; 
+    height: 560px; 
+    margin-top: 15px;
+    background-size: contain;
+    border-left: 2px solid #e4e7e8;
+    box-shadow: 2px 2px #f4f4f4;
+}
+
+.part2 hr
+{
+    border: 0.7px solid #e4e7e8;
+    box-shadow: 2px 2px #f4f4f4;
+    margin-top: 15%;
+    width: 100%;
+}
+
+.part2 strong
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 5%;
+}
+
+.part2 img
+{
+    margin-top: 10%;
+}
+
+.part3
+{
+    height: 800px;
+    background-image: url(../Images/banner-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+}
+
+.part3 .jumbotron 
+{
+    background-color: #1e212c;
+    margin-top: 30%;
+    margin-left: 10%;
+    padding-bottom: 25%;
+    padding-right: 4%;
+    padding-left: 5%;
+}
+
+.part3 .col-md-4
+{
+    padding: 0%;
+}
+
+.part3 .row
+{
+    margin: 0%;
+}
+
+.part3 .one h2,b
+{
+    color: white;
+    font-weight: 600;
+    font-size: 22px;
+    margin-bottom: 10%;
+}
+
+.part3 .one h2:hover
+{
+    color: #bb0c1d;
+    transition: 0.5s;
+    cursor: pointer;
+}
+    
+.part3 p
+{
+    color: white;
+    font-weight: 200;
+    font-size: 18px;
+    margin-bottom: 15%;
+}
+
+.part3 .breadcrumb
+{
+    margin-top: 42%;
+    margin-right: 10%;
+    background-color: inherit;
+}
+
+.part3  .breadcrumb img
+{
+    margin-right: 4%;
+    margin-bottom: 5%;
+}
+    
+.part3 .breadcrumb img:hover
+{
+    opacity: 0.7;
+}
+
+.part4  .jumbotron
+{
+    margin-bottom: 0%;
+    height: auto;
+    background-color: #1e212c;
+    color: white;
+}
+ 
+.part4  h2
+{
+    color: white;
+    font-size: 18px;
+    padding-bottom: 1%;
+}
+
+.part4 span:hover
+{
+    color: #bb0c1d;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+#map
+{
+    -webkit-filter: grayscale(100%); 
+    filter: grayscale(100%);
+    height: 456px;
+    margin-top: 10%;
+    margin-left: 0.5%;
+    border: 30px solid #1e212c !important;
+}
+
+#map .col-md-4
+{
+    padding: 0%;
+}
+
+/* Start ScrollTop */
+
+#scrollTop
+{
+	width: 40px;
+	height: 35px;
+	background: #ccc;
+	color: #ed5353;
+	position: fixed;
+	z-index: 9999;
+	right: 15px;
+	bottom:10px;
+	border-radius: 5px;
+	text-align: center;
+    padding-top: 3px;
+	display: none;
+	cursor: pointer;
+}
+
+#scrollTop:hover
+{
+	background: #333;
+	color: #fff;
+}
+
+/* End ScrollTop */
+/* Small Phone And Tablet*/
+@media (max-width: 550px)
+{
+    .part2 button
+    {
+        width: 30%;
+    }
+}
+/* Small Phone And Tablet*/
+@media (max-width: 767px)
+{
+    .part1 .brand .navbar-brand
+    {
+        margin-left: 30%;
+        top: 7%; 
+    }
+   #mySidenav a
+    {
+        height: 40px;
+        padding: 5px !important;
+    }
+    #about
+    {
+        top: 10px !important;
+    }
+    #blog
+    {
+        top: 52px !important;
+    }
+    #projects
+    {
+        top: 95px !important;
+    }
+    #contact
+    {
+        top: 137px !important;
+    }
+    .part2 h1
+    {
+        font-size: 40px;
+    }
+    .part3
+    {
+        height: auto;
+    }
+    .part3 .one h2
+    {
+        font-size: 20px;
+        margin-bottom: 4%;
+    }
+    .part3 p
+    {
+        margin-bottom: 7%;
+    }
+    
+    .part3 .breadcrumb
+    {
+        margin-top: 5%;
+        padding: 0%;
+    }
+    .part3 .jumbotron
+    {
+        margin-left: 0%;
+        text-align: left;
+        margin-top: 10%; 
+    }
+    .part3 .one b
+    {
+        font-size: 20px;
+    }
+    .part2
+    {
+        height: auto;
+    }
+    .part2 .form-group
+    {
+        display: unset;
+    }
+    .part2 .cont
+    {
+        border: 2px solid #e4e7e8;
+        margin-bottom: 10%;
+    }
+    .part2 input
+    {
+        width: 100%;
+        margin-left: 0%;
+    }
+    .part2 textarea
+    {
+        margin-bottom: 4%;
+        margin-left: 0%;
+        width: 100%;
+    }
+    .part2 #Char
+    {
+        margin-left: 0%;
+    }
+}
+/* Small Screen */
+@media (min-width: 768px) and (max-width: 991px)
+{
+    .part1 .brand .navbar-brand
+    {
+        margin-left: 30%;
+        top: 7%; 
+    }
+    #mySidenav a
+    {
+        height: 40px;
+        padding: 5px !important;
+    }
+    #about
+    {
+        top: 10px !important;
+    }
+    #blog
+    {
+        top: 52px !important;
+    }
+    #projects
+    {
+        top: 95px !important;
+    }
+    #contact
+    {
+        top: 137px !important;
+    }
+    .part3
+    {
+        height: auto;
+    }
+    .part3 .one h2
+    {
+        font-size: 30px;
+        margin-bottom: 4%;
+    }
+    .part3 p
+    {
+        margin-bottom: 7%;
+    }
+    
+    .part3 .breadcrumb
+    {
+        margin-top: 5%;
+        padding: 0%;
+    }
+    .part3 .jumbotron
+    {
+        margin-left: 0%;
+        text-align: left;
+        margin-top: 10%; 
+    }
+    .jumbotron .h1, .jumbotron h1
+    {
+        font-size: 40px;
+    }
+    .part2 input
+    {
+        width: 55%;
+    }
+    .part2 textarea
+    {
+        width: 55%;
+    }
+    
+}
+/* Medium Screen */
+@media (min-width: 992px) and (max-width: 1199px)
+{
+    .part1 .brand .navbar-brand
+    {
+        top: 7%;
+        margin-left: 35%;
+    }
+    #mySidenav a
+    {
+        height: 40px;
+        padding: 5px !important;
+    }
+    #about
+    {
+        top: 10px !important;
+    }
+    #blog
+    {
+        top: 52px !important;
+    }
+    #projects
+    {
+        top: 95px !important;
+    }
+    #contact
+    {
+        top: 137px !important;
+    }
+    .part2 input
+    {
+        width: 60%
+    }
+    .part2 textarea
+    {
+        width: 60%;
+    }
+}
+/* large Screen */
+@media (min-width: 1200px) and (max-width: 1267px)
+{
+    .navbar-brand>img
+    {
+        width: 80%;
+        margin-top: 1%;
+    }
+}
+
+/* Style the links inside the sidenav */
+#mySidenav a 
+{
+    position: absolute; /* Position them relative to the browser window */
+    left: -80px; /* Position them outside of the screen */
+    transition: 0.3s; /* Add transition on hover */
+    padding: 10px; /* 15px padding */
+    width: 130px; /* Set a specific width */
+    text-decoration: none; /* Remove underline */
+    font-size: 20px; /* Increase font size */
+    color: white; /* White text color */
+    border-radius: 0 5px 5px 0;/* Rounded corners on the top right and bottom right side */
+}
+
+#mySidenav a:hover 
+{
+    left: 0; 
+}
+
+
+#about 
+{
+    top: 20px;
+    background-color: #45b39c;
+    color: #45b39c !important;
+}
+#about:hover
+{
+    color: #fff !important;
+    z-index: 2;
+}
+
+#blog 
+{
+    top: 80px;
+    background-color: #7587a0;
+    color: #7587a0 !important;
+}
+#blog:hover
+{
+    color: #fff !important;
+    z-index: 2;
+}
+
+#projects 
+{
+    top: 140px;
+    background-color: #ed5353; 
+    color: #ed5353 !important;
+}
+#projects:hover
+{
+    color: #fff !important;
+    z-index: 2;
+}
+
+#contact
+{
+    top: 200px;
+    background-color: #555;
+    color: #555 !important;
+}
+#contact:hover
+{
+    color: #fff !important;
+    z-index: 2;
+}

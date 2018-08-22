@@ -1,0 +1,726 @@
+.part1
+{
+    background-image: url(../Images/banner-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-width: 100%; 
+    padding-top: 4%;
+    height: 180px;
+}
+
+.navbar
+{
+    width: 80%;
+    margin-left: 12%;
+    border: none;
+    background-color: #34385a;
+    color: #8085a1;
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+
+.navbar-default
+{
+    padding-top: 1.2%;
+    
+}
+
+.navbar-default .navbar-nav li a:hover
+{
+    color: #ed5354; 
+    transition: 0.5s;
+}
+
+.navbar-brand
+{
+    position: absolute;
+    top: -13%;   
+}
+
+.navbar-default .navbar-nav #active a
+{
+    color: #ed5354;
+    background-color: #34385a;
+}
+
+.prag
+{
+    background-color: white;
+    color: black;
+    font-size: 18px;
+    margin-top: 3%;
+    padding-bottom: 1.5%;
+    padding-left: 5%;
+    font-weight: 600;
+    border-bottom: 2px solid #e4e7e8;
+    box-shadow: 2px 2px #f4f4f4;
+}
+
+.prag a
+{
+    color: #ed5353;
+    cursor: pointer;
+}
+
+.prag a:hover
+{
+    opacity: 0.8;
+}
+
+.part2 .jumbotron
+{
+    margin-top: 2%;
+    background-color: #fff;
+    line-height: 3em;
+    margin-bottom: 1%;
+}
+
+.part2 .jumbotron h1
+{
+    margin-bottom: 4%;
+    color: #2b3252;
+}
+
+.part2 .jumbotron .unique
+{
+    font-weight: bold;
+    color: black;
+}
+
+.part2 .jumbotron p
+{
+    color: black;
+}
+
+.part3 .first
+{
+    margin-left: 15%;
+    margin-bottom: 6%
+}
+
+.part3 .second
+{
+    margin-left: 39%;
+    margin-bottom: 5%;
+}
+
+.part3 hr
+{
+    border: 0.7px solid #e4e7e8;
+    box-shadow: 2px 2px #f4f4f4;
+    margin-bottom: 5%;
+}
+
+.part4
+{
+    background-color: white;
+    margin-bottom: 5%;
+}
+
+.part4 .media-body
+{
+    line-height: 1.90em;
+    font-weight: 100;
+    font-size: 18px;
+    color: #2b3252;
+}
+
+.part4 .media-body h2
+{
+    font-weight: 600;
+    font-size: 18px;
+    color: black;
+    line-height: 4em; 
+    margin-right: 0%;
+    padding-top: 3%;
+}
+
+.part4 b
+{
+    color: #2b3252;
+    font-size: 20px;
+}
+
+.part4 .media
+{
+    margin-left: 0%;
+}
+
+.part4 .media img
+{
+    margin-top: 20%;
+    padding-right: 20%;
+}
+
+#flip 
+{
+    text-align: left;
+    color: #ed5353;
+    font-weight: 300;
+    background-color: white;
+    cursor: pointer;
+    border: 1px solid #f5f6f9;
+    border-radius: 2%;
+    height: 37px;
+    font-size: 25px;
+    color: #ed5353; 
+    margin-top: -2%;
+}
+
+.part4 #panel 
+{
+    display: none;
+    border: 1px solid #f5f6f9;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-bottom: 5%;
+}
+
+.part6 p
+{
+    padding-top: -2%;
+    padding-bottom: 3%;
+}
+
+.part5
+{
+    height: 800px;
+    background-image: url(../Images/banner-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+}
+
+.part5 .jumbotron 
+{
+    background-color: #1e212c;
+    margin-top: 30%;
+    margin-left: 10%;
+    padding-bottom: 26.5%;
+    padding-right: 4%;
+    padding-left: 5%;
+}
+
+.part5 .col-md-4
+{
+    padding: 0%;
+}
+
+.part5 .row
+{
+    margin: 0%;
+}
+
+.part5 .one h2,b
+{
+    color: white;
+    font-weight: 600;
+    font-size: 22px;
+    margin-bottom: 10%;
+}
+
+.part5 .one h2:hover
+{
+    color: #bb0c1d;
+    transition: 0.5s;
+    cursor: pointer;
+}
+    
+.part5 p
+{
+    color: white;
+    font-weight: 200;
+    font-size: 18px;
+    margin-bottom: 15%;
+}
+
+.part5 .breadcrumb
+{
+    margin-top: 42%;
+    margin-right: 10%;
+    background-color: inherit;
+}
+
+.part5  .breadcrumb img
+{
+    margin-right: 4%;
+    margin-bottom: 5%;
+}
+    
+.part5 .breadcrumb img:hover
+{
+    opacity: 0.7;
+}
+
+.part6 .jumbotron
+{
+    background-color: #1e212c;
+    color: white;
+    height: 200px;
+    margin-bottom: 0% !important;
+}
+ 
+.part6  h2
+{
+    color: white;
+    font-size: 18px;
+    padding-bottom: 1%;
+}
+
+.part6 span:hover
+{
+    color: #bb0c1d;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+#map
+{
+    height: 463px;
+    margin-top: 10%;
+    margin-left: 0.5%;
+    border: 10px solid #0a0200;
+    border: 30px solid #1e212c !important;
+}
+
+#map .col-md-4
+{
+    padding: 0%;
+}
+
+/* Start ScrollTop */
+
+#scrollTop
+{
+	width: 40px;
+	height: 35px;
+	background: #ccc;
+	color: #ed5353;
+	position: fixed;
+	z-index: 9999;
+	right: 15px;
+	bottom:10px;
+	border-radius: 5px;
+	text-align: center;
+    padding-top: 3px;
+	display: none;
+	cursor: pointer;
+}
+
+#scrollTop:hover
+{
+	background: #333;
+	color: #fff;
+}
+
+/* End ScrollTop */
+
+/* ******************************************************************************************************************* */
+
+/* Small Phone And Tablet*/
+@media (max-width: 767px)
+{
+    .part1 .brand .navbar-brand
+    {
+        margin-left: 30%;
+        top: 7%; 
+    }
+    #mySidenav a
+    {
+        height: 40px;
+        padding: 5px !important;
+        position: absolute;
+        left: -80px; 
+        transition: 0.3s; 
+        width: 130px; 
+        text-decoration: none;
+        font-size: 20px; 
+        color: white; 
+        border-radius: 0 5px 5px 0;
+    }
+    #mySidenav a:hover 
+    {
+        left: 0; 
+    }
+    #about 
+    {
+        top: 10px !important;
+        background-color: #45b39c;
+        color: #45b39c !important;
+    }
+    #about:hover
+    {
+        color: #fff !important;
+        z-index: 2;
+    }
+
+    #blog 
+    {
+        top: 52px !important;
+        background-color: #7587a0;
+        color: #7587a0 !important;
+    }
+    #blog:hover
+    {
+        color: #fff !important;
+        z-index: 2;
+    }
+
+    #projects 
+    {
+        top: 95px !important;
+        background-color: #ed5353; 
+        color: #ed5353 !important;
+    }
+    #projects:hover
+    {
+        color: #fff !important;
+        z-index: 2;
+    }
+
+    #contact
+    {
+        top: 137px !important;
+        background-color: #555;
+        color: #555 !important;
+    }
+    #contact:hover
+    {
+        color: #fff !important;
+        z-index: 2;
+    }
+    .jumbotron .h1, .jumbotron h1
+    {
+        font-size: 20px;
+        font-weight: 700;
+    }
+    .jumbotron p
+    {
+        font-size: 19px;
+        line-height: 1.7em;
+    }
+    .part3 .first
+    {
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+    .part3 .second
+    {
+        margin-left: 33%;
+    }
+    .part4 .media-body h2
+    {
+        line-height: 2em;
+    }
+    .part4 .media-body
+    {
+        padding-bottom: 10%;
+        padding-left: 5%;
+    }
+    .part4 #flip
+    {
+        font-size: 18px;
+        text-align: center;
+        padding-top: 1%;
+    }
+    .part4 .media-body
+    {
+        font-size: 18px;
+    }
+    .part4 .media img
+    {
+        margin-top: 10%;
+    }
+    .part5
+    {
+        height: auto;
+    }
+    .part5 .one h2
+    {
+        font-size: 20px;
+        margin-bottom: 4%;
+    }
+    .part5 p
+    {
+        margin-bottom: 7%;
+    }
+    
+    .part5 .breadcrumb
+    {
+        margin-top: 5%;
+        padding: 0%;
+    }
+    .part5 .jumbotron
+    {
+        margin-left: 0%;
+        text-align: left;
+        margin-top: 10%; 
+    }
+    .part5 .one b
+    {
+        font-size: 20px;
+    }
+    .jumbotron p
+    {
+        font-size: 17px;
+    }
+    .part6 p
+    {
+        font-size: 17px;
+    }
+    .part6 .jumbotron
+    {
+        height: auto;
+    }
+}
+/* Small Screen */
+@media (min-width: 768px) and (max-width: 991px)
+{
+    .part1 .brand .navbar-brand
+    {
+        margin-left: 30%;
+        top: 7%; 
+    }
+    #mySidenav a
+    {
+        height: 40px;
+        padding: 5px !important;
+        position: absolute;
+        left: -80px; 
+        transition: 0.3s; 
+        width: 130px; 
+        text-decoration: none;
+        font-size: 20px; 
+        color: white; 
+        border-radius: 0 5px 5px 0;
+    }
+    #mySidenav a:hover 
+    {
+        left: 0; 
+    }
+    #about 
+    {
+        top: 10px !important;
+        background-color: #45b39c;
+        color: #45b39c !important;
+    }
+    #about:hover
+    {
+        color: #fff !important;
+        z-index: 2;
+    }
+
+    #blog 
+    {
+        top: 52px !important;
+        background-color: #7587a0;
+        color: #7587a0 !important;
+    }
+    #blog:hover
+    {
+        color: #fff !important;
+        z-index: 2;
+    }
+
+    #projects 
+    {
+        top: 95px !important;
+        background-color: #ed5353; 
+        color: #ed5353 !important;
+    }
+    #projects:hover
+    {
+        color: #fff !important;
+        z-index: 2;
+    }
+
+    #contact
+    {
+        top: 137px !important;
+        background-color: #555;
+        color: #555 !important;
+    }
+    #contact:hover
+    {
+        color: #fff !important;
+        z-index: 2;
+    }
+
+    .part3 .first
+    {
+        margin-left: 0%;
+    }
+    .part3 .row
+    {
+        margin-right: 0%;
+    }
+    .part4 .media-body h2
+    {
+        line-height: 2em;
+    }
+    .part4 .media-body
+    {
+        padding-bottom: 10%;
+        padding-left: 5%;
+    }
+    .part4 .media img
+    {
+        margin-top: 0%;
+    }
+    .part5
+    {
+        height: auto;
+    }
+    .part5 .one h2
+    {
+        font-size: 30px;
+        margin-bottom: 4%;
+    }
+    .part5 p
+    {
+        margin-bottom: 7%;
+    }
+    
+    .part5 .breadcrumb
+    {
+        margin-top: 5%;
+        padding: 0%;
+    }
+    .part5 .jumbotron
+    {
+        margin-left: 0%;
+        text-align: left;
+        margin-top: 10%; 
+    }
+    .jumbotron .h1, .jumbotron h1
+    {
+        font-size: 40px;
+    }
+    
+}
+/* Medium Screen */
+@media (min-width: 992px) and (max-width: 1199px)
+{
+    .part4 .media-body h2
+    {
+        line-height: 2em;
+    }
+    .part4 .media-body
+    {
+        padding-bottom: 8%;
+    }
+    .part4 .media img
+    {
+        margin-top: 0%;
+    }
+    .part3 .first
+    {
+        margin-left: 10%;
+    }
+    .part1 .brand .navbar-brand
+    {
+        top: 7%;
+        margin-left: 35%;
+    }
+    #mySidenav a
+    {
+        height: 40px;
+        padding: 5px !important;
+    }
+    #about
+    {
+        top: 10px !important;
+    }
+    #blog
+    {
+        top: 52px !important;
+    }
+    #projects
+    {
+        top: 95px !important;
+    }
+    #contact
+    {
+        top: 137px !important;
+    }
+}
+/* large Screen */
+@media (min-width: 1200px) and (max-width: 1267px)
+{
+    .navbar-brand>img
+    {
+        width: 80%;
+        margin-top: 1%;
+    }
+}
+
+/* ********************************************************************************************************************** */
+
+/* Style the links inside the sidenav */
+#mySidenav a 
+{
+    position: absolute; /* Position them relative to the browser window */
+    left: -80px; /* Position them outside of the screen */
+    transition: 0.3s; /* Add transition on hover */
+    padding: 10px; /* 15px padding */
+    width: 130px; /* Set a specific width */
+    text-decoration: none; /* Remove underline */
+    font-size: 20px; /* Increase font size */
+    color: white; /* White text color */
+    border-radius: 0 5px 5px 0;/* Rounded corners on the top right and bottom right side */
+}
+
+#mySidenav a:hover 
+{
+    left: 0; 
+}
+
+#about 
+{
+    top: 20px;
+    background-color: #45b39c;
+    color: #45b39c !important;
+}
+#about:hover
+{
+    color: #fff !important;
+    z-index: 2;
+}
+
+#blog 
+{
+    top: 80px;
+    background-color: #7587a0;
+    color: #7587a0 !important;
+}
+#blog:hover
+{
+    color: #fff !important;
+    z-index: 2;
+}
+
+#projects 
+{
+    top: 140px;
+    background-color: #ed5353; 
+    color: #ed5353 !important;
+}
+#projects:hover
+{
+    color: #fff !important;
+    z-index: 2;
+}
+
+#contact
+{
+    top: 200px;
+    background-color: #555;
+    color: #555 !important;
+}
+#contact:hover
+{
+    color: #fff !important;
+    z-index: 2;
+}
