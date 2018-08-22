@@ -424,7 +424,7 @@ body
 
 /* Start Loading */
 
-/*.loading-overlay
+.loading-overlay
 {
 	position:fixed;
 	left: 0;
