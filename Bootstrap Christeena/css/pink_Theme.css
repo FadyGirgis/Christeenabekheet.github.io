@@ -1,0 +1,56 @@
+.option-box .color-box,
+.testimonials .carousel-indicators li.active
+{
+	border: 3px solid #F5BAB6;
+}
+
+.features .row,
+.dropdown-menu >li>a:hover,
+.dropdown-menu >li>a:focus
+{
+	background-color: #F5BAB6;
+}
+.price .container,
+.carousel-indicators .active,
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:focus,
+.navbar-inverse .navbar-nav>.active>a:hover,
+.option-box .gear-check,
+.subscribe .container
+{
+	background: #F5BAB6;
+}
+
+.footer a {color: #AAA;}
+.footer a:hover{color:#fff;}
+.footer h3,
+.copy .copyright p a span,
+.contact i:hover,
+.testimonials  span,
+.about h1 span,
+.about h4 span,
+.navbar-inverse .navbar-brand span
+{
+	color:#F5BAB6;
+}
+
+.dropdown-menu
+{
+  border-top:2px solid #F5BAB6;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
